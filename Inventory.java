@@ -13,7 +13,6 @@ public class Inventory
 {
     private String ProductName;
     private double UnitPrice;
-    private int Quantity;
     
     public Inventory()
     {
